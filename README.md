@@ -9,5 +9,5 @@ $  python3 notes.py
 ```sh
 $  git clone https://github.com/hhemied/Notes
 $  cd Notes
-$  mv notes.py /usr/bin/ && chmod u+x /usr/bin/notes
+$  sudo mv notes.py /usr/bin/ && sudo chmod u+x /usr/bin/notes
 ```
